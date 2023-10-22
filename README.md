@@ -27,6 +27,8 @@ Lokesh is a ***Vice President [Data Engineering Capability]*** at National Austr
 📌 Highlighted current activities:
 - 🌱 Big data expert with experience in Design, Development, and Implementation of Batch data pipeline with the components like Hadoop, Hive, HDFS, Spark, Python(Pyspark),        Apache Sqoop.
 - 👯 Expertise in Data processing using Pyspark with various data sources like files, Databases by using Spark Dataframes, RDD, and Spark SQL.
+- ⚡ Experience in designing and developing complex mappings to extract data from diverse sources including flat files and RDBMS tables.
+
 - 🔭 I’m currently working on Machine learning and Artificial Intelligence
 - 🤔 I’m looking for help with learning more and collaboration.
 - 💬 Ask me about data engineering , data science.
