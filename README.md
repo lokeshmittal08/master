@@ -32,7 +32,7 @@ Lokesh is a ***Vice President [Data Engineering Capability]*** at National Austr
 - 💬 Ask me about data engineering , data science.
 - 📫 How to reach me: [lokeshmittal2019@gmail.com](lokeshmittal2019@gmail.com), [@Shubham99142929](https://twitter.com/Shubham99142929).
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I don't use the QWERTY keyboard
+
 
  • [LinkedIn](https://www.linkedin.com/in/lokesh-mittal-402ba751/) 
 
